@@ -18,3 +18,20 @@ Simple Python script running through the command line.
 4. Run the script to complete the annotation task. make sure to read each prompt carefully.
  > python team_1.py
 
+## Important Information
+
+**Read the instructions in the script carefully**
+
+The script will automatically save your progress, but you **need to press q when you are done with the labeling task**
+
+In order to start where you left off, simply select the file from the list of files at the beginnning of the script.
+
+## Script Commands
+
+**note: these commands are not case-sensitive**
+
+- Y = yes
+- N = no 
+- C = needs more context
+- Q = quit
+- numbers (i.e. 1 or 2): used to select a particular file
